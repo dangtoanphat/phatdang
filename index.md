@@ -1,6 +1,7 @@
 # Phat Dang
 
 Email: phatdang.work@gmail.com
+
 Phone: (123) 456-7890
 
 ## Summary

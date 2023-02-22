@@ -1,52 +1,59 @@
 # Phat Dang
 
-Email: phatdang.work@gmail.com
-
-Phone: (123) 456-7890
+Email: phatdang.work@gmail.com<br>
+Phone: (84) 944-309-347
 
 ## Summary
 
-Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Skilled in Java, Python, and SQL. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
+Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Skilled Go, Python and SQL. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
 
 ## Professional Experience
 
 ### Senior Backend Engineer
 
-**ABC Corporation** - New York, NY  
-*June 2018 - Present*
+**Ahamove** - Ho Chi Minh city, Vietnam<br>
+*October 2018 - Present*
 
-- Design and implement RESTful APIs using Java Spring Framework.
-- Develop microservices architecture to improve system performance and scalability.
-- Collaborate with the frontend team to integrate user interfaces with backend services.
-- Optimize database queries to improve system response time.
-- Implement continuous integration and delivery using Jenkins and AWS CodeDeploy.
+- Design and implement the logic behind Sameday delivery which was awarded the Best in 2019
+- Provide guidance on technical solutions to brainstom new features
+- Responsible for managing the legacy Python codebase and support its transformation into microservices using Go
+- Implement event-driven microservices using RabbitMQ as databus
+- Prioritize task and development plan to ensure feature's go-live date
 
-### Backend Engineer
+### Fullstack Developer
 
-**XYZ Inc.** - San Francisco, CA  
-*January 2016 - May 2018*
+**Amaris(Mantu)** - Ho Chi Minh, Vietnam<br>
+*August 2017 - September 2018*
 
-- Designed and implemented an authentication system using Python Flask and JWT.
-- Developed backend services for a mobile application using AWS Lambda and API Gateway.
-- Collaborated with the frontend team to integrate payment processing services.
-- Built data pipelines to process and analyze large datasets using Python and SQL.
-- Deployed services using Docker containers and AWS Elastic Beanstalk.
+- Implement new features of a module in ERP system for Amaris business manager using ASPT.NET and SQL Server
+- Expose REST API for the mobile team
+- Support a senior engineer to document and refactor
+
+### Software Engineer Intern
+**Intel Product Vietnam** - Ho Chi Minh, Vietnam<br>
+*January 2017 - May 2017*
+
+- Design and build a web application to upload and process the Excel files using ASP.NET and SQL Server
+- Learn how to plan and follow the plan to deliver feature on time
 
 ## Education
 
 ### Bachelor of Science in Computer Science
 
-**University of California, Los Angeles (UCLA)** - Los Angeles, CA  
-*September 2012 - June 2016*
+**International University - Vietnam National Universities** - Ho Chi Minh city, Vietnam
+
+*August 2013 - July 2017*
 
 ## Skills
 
-- Programming languages: Java, Python, SQL
-- Frameworks: Spring, Flask
-- Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git, Jenkins, Docker, AWS
+- Programming languages: Python, Go
+- Frameworks: Python(Falcon, Flask), Go(Echo)
+- Databases: MongoDB, Postgres, Redis
+- Others: Git, Elasticsearch, RabbitMQ
+  
 
 ## Certifications
 
-- AWS Certified Developer - Associate (2019)
-- Oracle Certified Professional, Java SE 8 Programmer (2017)
+- AWS Certified Developer - Associate (2020) 
+  
+  http://aws.amazon.com/verification with code 47VB7RVB12FQQQS3)

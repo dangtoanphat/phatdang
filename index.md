@@ -49,7 +49,7 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Programming languages: Python, Go
 - Frameworks: Python(Falcon, Flask), Go(Echo)
 - Databases: MongoDB, Postgres, Redis
-- Others: Git, Elasticsearch, RabbitMQ
+- Others: Git, Elasticsearch, RabbitMQ, AWS
   
 
 ## Certifications

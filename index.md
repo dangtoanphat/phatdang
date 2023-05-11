@@ -4,11 +4,11 @@
 ☎️ +1 (669)-350-7368 <br>
 📨 phatdang.work@gmail.com<br>
 
-## Summary
+## 🤘HI, WELCOME TO MY PROFILE
 
-Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Skilled Go, Python and SQL. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
+Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
 
-## Professional Experience
+## 🎯 PROFESSIONAL EXPERIENCE
 
 ### AHAMOVE - Ho Chi Minh city, Vietnam
 
@@ -27,7 +27,6 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Optimized MongoDB query and frequently reviewed indexing strategies to ensure query response time, resulting in maintaining under 150 ms response time and proactively identifying and resolving the issues
 - Successfully led the back-end development of a new service called “4 Hours Delivery” which contributes over 50% of the daily revenue
 
-<br>
 
 ### AMARIS CONSULTING - Ho Chi Minh, Vietnam
 
@@ -38,7 +37,6 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Collaborated on a RESTful API with the mobile team, resulting in a successful app rollout and seamless integration across web and mobile versions.
 - Optimized database queries for timely report exporting, resulting in improved data accuracy and Board of Directors satisfaction.
 
-<br>
 
 ### INTEL VIETNAM - Ho Chi Minh, Vietnam
 **Software Engineer Intern**<br>
@@ -48,19 +46,19 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Participated in daily stand up meeting to discuss project progress, challenges 
 - Attended internal training for Intel employees resulting in developing a strong can-do attitude and fearless innovation
 
-## Education
+## 🎓 EDUCATION
 
 ### INTERNATIONAL UNIVERSITY OF HO CHI MINH CITY - VIETNAM NATIONAL UNIVERSITIES
 
 **Bachelor of Engineering, Major in Computer Science**<br>
 *July 2013 - June 2017*
 
-## Technical Skills
+## 💻 TECHNICAL SKILLS
 
 - Programming languages: Python, Go, 
 - Databases: NoSQL (MongoDB), SQL (PostgreSQL)
 - Others: Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes, Git, AWS, Linux
   
-## Certifications
+## 🎖️ CERTIFICATIONS
 
 - AWS Certified Developer - Associate (2020) - Validate code: 47VB7RVB12FQQQS3

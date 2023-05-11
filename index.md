@@ -1,6 +1,8 @@
 # Toan-Phat (Steven) Dang
 
-San Jose, CA 95123 | +1 (669)-350-7368 | phatdang.work@gmail.com<br>
+🏠 San Jose, CA 95123 <br>
+☎️ +1 (669)-350-7368 <br>
+📨 phatdang.work@gmail.com<br>
 
 ## Summary
 

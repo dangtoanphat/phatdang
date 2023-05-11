@@ -3,12 +3,10 @@
 San Jose, CA 95123 | +1 (669)-350-7368 | phatdang.work@gmail.com<br>
 
 ## Summary
----
 
 Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Skilled Go, Python and SQL. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
 
 ## Professional Experience
----
 
 ### AHAMOVE - Ho Chi Minh city, Vietnam
 
@@ -49,22 +47,18 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Attended internal training for Intel employees resulting in developing a strong can-do attitude and fearless innovation
 
 ## Education
----
 
-### Bachelor of Science in Computer Science
+### INTERNATIONAL UNIVERSITY OF HO CHI MINH CITY - VIETNAM NATIONAL UNIVERSITIES
 
-**International University - Vietnam National Universities** - Ho Chi Minh city, Vietnam
-
-*Aug. 2013 - June 2017*
+**Bachelor of Engineering, Major in Computer Science**<br>
+*July 2013 - June 2017*
 
 ## Technical Skills
----
 
 - Programming languages: Python, Go, 
 - Databases: NoSQL (MongoDB), SQL (PostgreSQL)
 - Others: Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes, Git, AWS, Linux
   
 ## Certifications
----
 
 - AWS Certified Developer - Associate (2020) - Validate code: 47VB7RVB12FQQQS3

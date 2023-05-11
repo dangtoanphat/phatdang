@@ -1,7 +1,6 @@
 # Toan-Phat (Steven) Dang
 
-Email: phatdang.work@gmail.com<br>
-Phone: (669)-350-7368
+San Jose, CA 95123 | +1 (669)-350-7368 | phatdang.work@gmail.com<br>
 
 ## Summary
 ---

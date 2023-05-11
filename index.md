@@ -1,59 +1,71 @@
-# Phat Dang
+# Toan-Phat (Steven) Dang
 
 Email: phatdang.work@gmail.com<br>
-Phone: (84) 944-309-347
+Phone: (669)-350-7368
 
 ## Summary
+---
 
 Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Skilled Go, Python and SQL. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
 
 ## Professional Experience
+---
 
-### Senior Backend Engineer
+### AHAMOVE - Ho Chi Minh city, Vietnam
 
-**Ahamove** - Ho Chi Minh city, Vietnam<br>
-*October 2018 - Present*
+**Senior Backend Engineer**<br>
+*Arp. 2020 - Mar. 2023*
 
-- Design and implement the logic behind Sameday delivery which was awarded the Best in 2019
-- Provide guidance on technical solutions to brainstom new features
-- Responsible for managing the legacy Python codebase and support its transformation into microservices using Go
-- Implement event-driven microservices using RabbitMQ as databus
-- Prioritize task and development plan to ensure feature's go-live date
+- Successfully led a team of four engineers in refactoring the delivery service architecture, enabling the company to expand its range of services in the beginning of 2022.
+- Established and maintained effective communication channels with other technical teams and stakeholders resulting in better collaboration, business knowledge sharing
+- Mentored junior members by regularly providing feedback and introducing new technologies or best practices, encourage them to take on more responsibilities , resulting in their professional growth, higher productivity and higher job satisfaction
 
-### Fullstack Developer
+**Backend Engineer**<br>
+*Oct. 2018 - Arp. 2020*
 
-**Amaris(Mantu)** - Ho Chi Minh, Vietnam<br>
-*August 2017 - September 2018*
+- Designed and developed a highly scalable system which handled over 1000 requests per second during peak time, resulting in maintaining 99.99% system uptime
+- Architected and built microservices backend infrastructure, resulting in successfully transferring the legacy monolith to over 100 microservices and enabling faster feature development
+- Optimized MongoDB query and frequently reviewed indexing strategies to ensure query response time, resulting in maintaining under 150 ms response time and proactively identifying and resolving the issues
+- Successfully led the back-end development of a new service called “4 Hours Delivery” which contributes over 50% of the daily revenue
 
-- Implement new features of a module in ERP system for Amaris business manager using ASPT.NET and SQL Server
-- Expose REST API for the mobile team
-- Support a senior engineer to document and refactor
+<br>
 
-### Software Engineer Intern
-**Intel Product Vietnam** - Ho Chi Minh, Vietnam<br>
-*January 2017 - May 2017*
+### AMARIS CONSULTING - Ho Chi Minh, Vietnam
 
-- Design and build a web application to upload and process the Excel files using ASP.NET and SQL Server
-- Learn how to plan and follow the plan to deliver feature on time
+**Software Engineer**<br>
+*Aug. 2017 - Sep. 2018*
+
+- Refactored an internal ERP module, resulting in a modern UI, improved user experience, and streamlined reporting for business managers.
+- Collaborated on a RESTful API with the mobile team, resulting in a successful app rollout and seamless integration across web and mobile versions.
+- Optimized database queries for timely report exporting, resulting in improved data accuracy and Board of Directors satisfaction.
+
+<br>
+
+### INTEL VIETNAM - Ho Chi Minh, Vietnam
+**Software Engineer Intern**<br>
+*Jan. 2017 - May 2017*
+
+- Developed a web application to process the large excel files and having reporting dashboard using HTML, CSS, ASP.NET framework
+- Participated in daily stand up meeting to discuss project progress, challenges 
+- Attended internal training for Intel employees resulting in developing a strong can-do attitude and fearless innovation
 
 ## Education
+---
 
 ### Bachelor of Science in Computer Science
 
 **International University - Vietnam National Universities** - Ho Chi Minh city, Vietnam
 
-*August 2013 - July 2017*
+*Aug. 2013 - June 2017*
 
-## Skills
+## Technical Skills
+---
 
-- Programming languages: Python, Go
-- Frameworks: Python(Falcon, Flask), Go(Echo)
-- Databases: MongoDB, Postgres, Redis
-- Others: Git, Elasticsearch, RabbitMQ, AWS
+- Programming languages: Python, Go, 
+- Databases: NoSQL (MongoDB), SQL (PostgreSQL)
+- Others: Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes, Git, AWS, Linux
   
-
 ## Certifications
+---
 
-- AWS Certified Developer - Associate (2020) 
-  
-  http://aws.amazon.com/verification with code 47VB7RVB12FQQQS3)
+- AWS Certified Developer - Associate (2020) - Validate code: 47VB7RVB12FQQQS3

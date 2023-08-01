@@ -13,8 +13,7 @@
     <span>📥 <a href="https://tinyurl.com/toanphatdang"> Download PDF resume </a></span>
 </div>
 
-
----
+<br>
 
 Analytical and detail-oriented Backend Software Engineer with 6 years of expertise in system design, architecture, and troubleshooting, focusing on crafting high-performance solutions that boost product functionality and efficiency. Eager to deepen my technical acumen and master cutting-edge technologies in a challenging role that promotes continuous learning and innovative problem-solving.
 

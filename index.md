@@ -1,34 +1,38 @@
 # Toan-Phat (Steven) Dang
 
-🏠 San Jose, CA 95123 <br>
-☎️ +1 (669)-350-7368 <br>
+📥 [Download my PDF resume](/asset/toanphatdang_resume.pdf) <br>
+🏠  San Jose, CA 95123 <br>
+☎️  (669)-350-7368 <br>
 📨 phatdang.work@gmail.com<br>
+
 
 ## 🤘HI, WELCOME TO MY PROFILE
 
-Backend Engineer with 5 years of experience designing and implementing scalable and reliable systems. Proven ability to work collaboratively with cross-functional teams to deliver high-quality software products.
+Analytical and detail-oriented Backend Software Engineer with 6 years of expertise in system design, architecture, and troubleshooting, focusing on crafting high-performance solutions that boost product functionality and efficiency. Eager to deepen my technical acumen and master cutting-edge technologies in a challenging role that promotes continuous learning and innovative problem-solving.
 
 ## 🎯 PROFESSIONAL EXPERIENCE
 
-### AHAMOVE - Ho Chi Minh city, Vietnam
+### Ahamove - Ho Chi Minh city, Vietnam
 
 **Senior Backend Engineer**<br>
 *Arp. 2020 - Mar. 2023*
 
-- Successfully led a team of four engineers in refactoring the delivery service architecture, enabling the company to expand its range of services in the beginning of 2022.
-- Established and maintained effective communication channels with other technical teams and stakeholders resulting in better collaboration, business knowledge sharing
-- Mentored junior members by regularly providing feedback and introducing new technologies or best practices, encourage them to take on more responsibilities , resulting in their professional growth, higher productivity and higher job satisfaction
+- Designed and developed data-driven microservices using Go and RabbitMQ, facilitating the migration of the Python monolith to microservices and accelerating feature development.
+- Monitored and ensured system stability, achieving an annual uptime of 99.99% by utilizing Grafana, Docker, and Kubernetes, and efficiently handling up to 10k requests per second during peak times.
+- Refactored the delivery booking and pricing services, enabling the company to expand operation to over 20 provinces in Vietnam and explore new product ideas.
+- Standardized the API and onboarding documents to streamline partner integration, significantly reducing the learning curve and setup time, fostering strong business collaborations, successfully onboarding Ahamove into top e-commerce in Vietnam.
+- Mentored junior team members by providing regular feedback and guidance, fostering an environment of continuous learning and improvement.
+
 
 **Backend Engineer**<br>
 *Oct. 2018 - Arp. 2020*
 
-- Designed and developed a highly scalable system which handled over 1000 requests per second during peak time, resulting in maintaining 99.99% system uptime
-- Architected and built microservices backend infrastructure, resulting in successfully transferring the legacy monolith to over 100 microservices and enabling faster feature development
-- Optimized MongoDB query and frequently reviewed indexing strategies to ensure query response time, resulting in maintaining under 150 ms response time and proactively identifying and resolving the issues
-- Successfully led the back-end development of a new service called “4 Hours Delivery” which contributes over 50% of the daily revenue
+- Collaborated cross-functional teams (product and operation team) to analyze and implement scalable technical solutions for new products, effectively addressing both existing and future needs.
+- Proactively monitored MongoDB queries to detect and resolve performance issues, ensuring query response time under 150 ms.
+- Successfully led the back-end development of the “4 Hours Delivery” service from prototype to production, contributing over 50% daily revenue and earning recognition as the best project in 2019.
+- Implemented a robust RESTful API using Falcon (Python framework) and Gunicorn, enabling product team and operation team to test and iterate various operation models during the company’s initial phase.
 
-
-### AMARIS CONSULTING - Ho Chi Minh, Vietnam
+### Amaris Consulting - Ho Chi Minh, Vietnam
 
 **Software Engineer**<br>
 *Aug. 2017 - Sep. 2018*
@@ -38,7 +42,7 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 - Optimized database queries for timely report exporting, resulting in improved data accuracy and Board of Directors satisfaction.
 
 
-### INTEL VIETNAM - Ho Chi Minh, Vietnam
+### Intel - Ho Chi Minh, Vietnam
 **Software Engineer Intern**<br>
 *Jan. 2017 - May 2017*
 
@@ -48,16 +52,16 @@ Backend Engineer with 5 years of experience designing and implementing scalable 
 
 ## 🎓 EDUCATION
 
-### INTERNATIONAL UNIVERSITY OF HO CHI MINH CITY - VIETNAM NATIONAL UNIVERSITIES
+### International University - Vietnam National Universities
 
-**Bachelor of Engineering, Major in Computer Science**<br>
+**Bachelor of Engineering in Computer Science**<br>
 *July 2013 - June 2017*
 
 ## 💻 TECHNICAL SKILLS
 
 - Programming languages: Python, Go, 
-- Databases: NoSQL (MongoDB), SQL (PostgreSQL)
-- Others: Redis, RabbitMQ, ElasticSearch, Docker, Kubernetes, Git, AWS, Linux
+- Databases: MongoDB, PostgreSQL, Redis
+- Others: RabbitMQ, ElasticSearch, Docker, Kubernetes, Git, AWS, Linux
   
 ## 🎖️ CERTIFICATIONS
 

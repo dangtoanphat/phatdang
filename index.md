@@ -1,6 +1,6 @@
 # Toan-Phat (Steven) Dang
 
-📥 [Download my PDF resume](/asset/toanphatdang_resume.pdf) <br>
+📥 [Download my PDF resume](https://tinyurl.com/toanphatdang) <br>
 🏠  San Jose, CA 95123 <br>
 ☎️  (669)-350-7368 <br>
 📨 phatdang.work@gmail.com<br>
@@ -32,7 +32,7 @@ Analytical and detail-oriented Backend Software Engineer with 6 years of experti
 - Successfully led the back-end development of the “4 Hours Delivery” service from prototype to production, contributing over 50% daily revenue and earning recognition as the best project in 2019.
 - Implemented a robust RESTful API using Falcon (Python framework) and Gunicorn, enabling product team and operation team to test and iterate various operation models during the company’s initial phase.
 
-### Amaris Consulting - Ho Chi Minh, Vietnam
+### Amaris Consulting - Ho Chi Minh city, Vietnam
 
 **Software Engineer**<br>
 *Aug. 2017 - Sep. 2018*
@@ -42,7 +42,7 @@ Analytical and detail-oriented Backend Software Engineer with 6 years of experti
 - Optimized database queries for timely report exporting, resulting in improved data accuracy and Board of Directors satisfaction.
 
 
-### Intel - Ho Chi Minh, Vietnam
+### Intel - Ho Chi Minh city, Vietnam
 **Software Engineer Intern**<br>
 *Jan. 2017 - May 2017*
 

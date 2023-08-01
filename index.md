@@ -1,6 +1,8 @@
+<head>
+    <title> Phat Dang </title>
+</head>
+
 # Toan-Phat (Steven) Dang
-
-
 
 <div style="display: flex; justify-content: space-between;">
     <span>🏠 San Jose, CA</span>

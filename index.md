@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <title> Phat Dang </title>
-    <link rel="icon" href="/asset/icon.png" type="image/png">
+    <link rel="icon" href="asset/icon.png" type="image/png">
 </head>
 
 # Toan-Phat (Steven) Dang

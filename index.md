@@ -1,16 +1,19 @@
 # Toan-Phat (Steven) Dang
 
-📥 [Download my PDF resume](https://tinyurl.com/toanphatdang) <br>
-🏠  San Jose, CA 95123 <br>
-☎️  (669)-350-7368 <br>
-📨 phatdang.work@gmail.com<br>
 
+
+<div style="display: flex; justify-content: space-between;">
+    <span>🏠 San Jose, CA</span>
+    <span>☎️ (669)-350-7368</span>
+    <span>📨 <a href="mailto:phatdang.work@gmail.com">phatdang.work@gmail.com</a></span>
+    <span>📥 <a href="https://tinyurl.com/toanphatdang"> Download PDF resume </a></span>
+</div>
 
 ## 🤘HI, WELCOME TO MY PROFILE
 
 Analytical and detail-oriented Backend Software Engineer with 6 years of expertise in system design, architecture, and troubleshooting, focusing on crafting high-performance solutions that boost product functionality and efficiency. Eager to deepen my technical acumen and master cutting-edge technologies in a challenging role that promotes continuous learning and innovative problem-solving.
 
-## 🎯 PROFESSIONAL EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
 ### Ahamove - Ho Chi Minh city, Vietnam
 
@@ -65,4 +68,4 @@ Analytical and detail-oriented Backend Software Engineer with 6 years of experti
   
 ## 🎖️ CERTIFICATIONS
 
-- AWS Certified Developer - Associate (2020) - Validate code: 47VB7RVB12FQQQS3
+- AWS Certified Developer Associate - Validate code: 47VB7RVB12FQQQS3

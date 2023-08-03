@@ -6,14 +6,13 @@
 
 # Toan-Phat (Steven) Dang
 
-<div style="display: flex; justify-content: space-between;">
-    <span>🏠 San Jose, CA</span>
-    <span>☎️ (669)-350-7368</span>
-    <span>📨 <a href="mailto:phatdang.work@gmail.com">phatdang.work@gmail.com</a></span>
-    <span>📥 <a href="https://tinyurl.com/toanphatdang"> Download PDF resume </a></span>
-</div>
-
+🏠 San Jose, CA <br>
+☎️ (669)-350-7368 <br>
+📨 phatdang.work@gmail.com <br>
+📥 [Download PDF resume](https://tinyurl.com/toanphatdang)
 <br>
+
+---
 
 Analytical and detail-oriented Backend Software Engineer with 6 years of expertise in system design, architecture, and troubleshooting, focusing on crafting high-performance solutions that boost product functionality and efficiency. Eager to deepen my technical acumen and master cutting-edge technologies in a challenging role that promotes continuous learning and innovative problem-solving.
 

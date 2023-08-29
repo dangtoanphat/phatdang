@@ -9,9 +9,8 @@
 🏠 San Jose, CA <br>
 ☎️ (669)-350-7368 <br>
 📨 phatdang.work@gmail.com <br>
-📥 [Download PDF resume](https://tinyurl.com/toanphatdang)
+📥 [Download PDF resume](https://drive.google.com/file/d/1uGROhU35-ZOgbaiLCEzCFIiRxRnhAvmM/view?usp=sharing)
 <br>
-
 ---
 
 Analytical and detail-oriented Backend Software Engineer with 6 years of expertise in system design, architecture, and troubleshooting, focusing on crafting high-performance solutions that boost product functionality and efficiency. Eager to deepen my technical acumen and master cutting-edge technologies in a challenging role that promotes continuous learning and innovative problem-solving.
